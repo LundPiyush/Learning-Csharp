@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\PhoneBookConsole\PhoneBookConsole\bin\Debug\netcoreapp3.1\PhoneBookConsole.exe
+C:\Users\DELL\source\repos\PhoneBookConsole\PhoneBookConsole\bin\Debug\netcoreapp3.1\PhoneBookConsole.deps.json
+C:\Users\DELL\source\repos\PhoneBookConsole\PhoneBookConsole\bin\Debug\netcoreapp3.1\PhoneBookConsole.runtimeconfig.json
+C:\Users\DELL\source\repos\PhoneBookConsole\PhoneBookConsole\bin\Debug\netcoreapp3.1\PhoneBookConsole.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\PhoneBookConsole\PhoneBookConsole\bin\Debug\netcoreapp3.1\PhoneBookConsole.dll
+C:\Users\DELL\source\repos\PhoneBookConsole\PhoneBookConsole\bin\Debug\netcoreapp3.1\PhoneBookConsole.pdb
+C:\Users\DELL\source\repos\PhoneBookConsole\PhoneBookConsole\obj\Debug\netcoreapp3.1\PhoneBookConsole.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\PhoneBookConsole\PhoneBookConsole\obj\Debug\netcoreapp3.1\PhoneBookConsole.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\PhoneBookConsole\PhoneBookConsole\obj\Debug\netcoreapp3.1\PhoneBookConsole.AssemblyInfo.cs
+C:\Users\DELL\source\repos\PhoneBookConsole\PhoneBookConsole\obj\Debug\netcoreapp3.1\PhoneBookConsole.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PhoneBookConsole\PhoneBookConsole\obj\Debug\netcoreapp3.1\PhoneBookConsole.dll
+C:\Users\DELL\source\repos\PhoneBookConsole\PhoneBookConsole\obj\Debug\netcoreapp3.1\PhoneBookConsole.pdb
+C:\Users\DELL\source\repos\PhoneBookConsole\PhoneBookConsole\obj\Debug\netcoreapp3.1\PhoneBookConsole.genruntimeconfig.cache
